@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="action_delete_all">Delete All</string>
+    <string name="title_activity_create_to_do">CreateToDoActivity</string>
+    <string name="SHARED_PREF_NAME">com.jakub.todolist.sharedprefs</string>
+    <string name="TODO_STRINGS">todostrings</string>
+</resources>
